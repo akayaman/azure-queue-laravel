@@ -1,5 +1,5 @@
 {
-  "name": "squigg/azure-queue-laravel",
+  "name": "akayaman/azure-queue-laravel",
   "description": "Laravel 5 Queue Driver for Microsoft Azure Storage Queue",
   "keywords": [
     "laravel",
@@ -11,8 +11,8 @@
   "license": "MIT",
   "authors": [
     {
-      "name": "Steve Strugnell",
-      "email": "github@squigg.co.uk"
+      "name": "NAKAYAMA Atsushi",
+      "email": "anaka@yo.rim.or.jp"
     }
   ],
   "require": {
