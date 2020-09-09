@@ -18,7 +18,7 @@ class AzureConnectorTest extends TestCase
      */
     protected $queueRestProxy;
 
-    public function setUp()
+    protected function setUp():void
     {
         parent::setUp();
 
